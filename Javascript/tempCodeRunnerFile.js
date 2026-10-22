@@ -1,0 +1,2 @@
+
+let ami=String(amit);
